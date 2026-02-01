@@ -1,4 +1,1 @@
-# ShadyPandaBlocklist
-A blocklist for use with Pihole, containing domains associated with the "Shady Panda" browser extensions.
-
-https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign
+Various blocklists for use with Pihole and other DNS blockers, containing domains I have not found in other blocklists I routinely use.
